@@ -32,6 +32,7 @@ jobs:
   playwright-tests:
     name: Playwright Tests
     needs: lint-and-typecheck
+    timeout-minutes: 1
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
