@@ -1,0 +1,267 @@
+{
+  "cookies": [
+    {
+      "name": "ncx",
+      "value": "yqb4FeqZ5qw-AOcmPDpBGVMdVaqRY5o1_vylb9I9_dA",
+      "domain": "www.douglas.de",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_ss",
+      "value": "ab8e18ef4e",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1770999596.624039,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_so",
+      "value": "86DC32122C4E335B8D729AE5E130520B3C1FE9BFF5EAD95DAF4DD5E2C805BF16~YAAQX8UTApHI1iKcAQAAVFeWVwbiZ2jC7E9LgYD7UrknlveQn6YzC69qo/M0rn7cWLjdDOxKa9LAMsFcIQ5mqfjjY146eDrHky+HfcIs0gGFzrjTf0XSjSY1MNAoeB+Wwvpg+YAadcxiDGo4QzC5QqrQh40aMo7sVXsHVq2Q1fZ9SNkanKx41hPyY8MyszGPwH3nsELbo30dlIVapzXdBR5vZHkZl9KlhvLForid8te1HfgkoVUWhRYls+jypZmhesCKsR8GTyRm0VHbO8xoEa8ikT+c6WUPK6Oyuzgo+wLcWHLzgeStUa0zKX2Zkqx1zm08bOo9WgMVudG/4Kk0MsIRjH+/WXhBIZYLxF1p1LvUT0AzVs7fRkkSBzerzl3+pxDgLocccUoCxnnC6ONdjW2462Vjl6fYYMVuxwK1V2LTNLJDb0fGAjAWxkjEqQKlCjIAq6vfX0WNuOxGzyg=",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1771082396.624157,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "value": "12EC513FAA834CAB421229C80D2D2B29~YAAQX8UTAq/I1iKcAQAAQ1iWVx6pyzqHYosba7pVjxE4+mHoheFQRXtQJm9/pFpUwA1HbVgge4N7Ns0kFc0ViJSnftPvwzs+olNAC93OP0Rj0nxzr6tJxEoILwiTZ5L0qoiquZEeBipdDyKNUHLCrNC/yJkgducKUniDg7KJTqFaHg75IxznzSMHFcZHnrByeHfpui0Udo0EIksyUjmtn/GfmNzUArHJFyb79sejvzbB8YIESoIWz9qMwv3t+jtnnfvvI+R9hTiDwhdQgudfI0h7SDeo5SrMxOBqvOigMS/FL8q1SLWpw+g8eXDjxEBibmIejRwANjwEsVoCQIYzoevX6nrUocDUWVRgZ2tWRvQMpetlNXKm7AlrQaOiVyUT3B8OP5aIY6lE5Jm+lhpMoQ8q~4274229~3486260",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1771010396.728164,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PIM-SESSION-ID",
+      "value": "kM6a32TgaejuvqSy",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "value": "86DC32122C4E335B8D729AE5E130520B3C1FE9BFF5EAD95DAF4DD5E2C805BF16~YAAQX8UTApHI1iKcAQAAVFeWVwbiZ2jC7E9LgYD7UrknlveQn6YzC69qo/M0rn7cWLjdDOxKa9LAMsFcIQ5mqfjjY146eDrHky+HfcIs0gGFzrjTf0XSjSY1MNAoeB+Wwvpg+YAadcxiDGo4QzC5QqrQh40aMo7sVXsHVq2Q1fZ9SNkanKx41hPyY8MyszGPwH3nsELbo30dlIVapzXdBR5vZHkZl9KlhvLForid8te1HfgkoVUWhRYls+jypZmhesCKsR8GTyRm0VHbO8xoEa8ikT+c6WUPK6Oyuzgo+wLcWHLzgeStUa0zKX2Zkqx1zm08bOo9WgMVudG/4Kk0MsIRjH+/WXhBIZYLxF1p1LvUT0AzVs7fRkkSBzerzl3+pxDgLocccUoCxnnC6ONdjW2462Vjl6fYYMVuxwK1V2LTNLJDb0fGAjAWxkjEqQKlCjIAq6vfX0WNuOxGzyg=~1770995997389",
+      "domain": ".www.douglas.de",
+      "path": "/",
+      "expires": 1773587997,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "value": "D849D8D39E7AB9501949BC0B0AFAFCAE~000000000000000000000000000000~YAAQX8UTAvbI1iKcAQAAQFyWVx6YYaOLLqNoDyTMJV5XYzk8co6s8DXX5AxZn+U0Kq/w4NUNYiY8hvBTKvhU2rVZqYLQVnRWEeBEDZlBvAhWRtkBae1NsbpNr7foug93FHHiZ5PNetZCYS64RvChrqVdkHMUmcwSg6ShHbSaNHJlYBZnho/6T39tRhrhAeHoO8t9TtxQmJvTRyQnuqE5qP9apKV8zba5OOU17ec5L8JisjYnasEk2RjCy+z3Qnszdns4cEBuhiagzeuCkNULbK0F3O5MucT9PD7cDUQ9KeTPo4pbvygY34Sx2tO7TIdBNf2iuAWo2sAwd684e2aevPgkSlXL7xoZY3ZEacZ3/EBFdEiFi/1iPmLYd7r6s/2E0Xy6VVBHvi+gz+xvz4KvKInKedCesazu2ySnN9UNAKYybVvawYyrjxRMTdSmSZUU4ODYTFoktgAWkhYBxc8S/4fuVKA8swY38DsOntZx6Eh4Mif5dsik6Gyl1qmLcHty",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1771003196.747902,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "45290818088952339411841346097453824404",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1786547998.272102,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCVS_CE025F3E56F292177F000101%40AdobeOrg",
+      "value": "1",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main",
+      "value": "v_id:019c57965e7f00186474bac2120105075001906d007e8$_sn:1$_se:1$_ss:1$_st:1770997798335$ses_id:1770995998335%3Bexp-session$_pn:1%3Bexp-session",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1802531998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ecid",
+      "value": "MCMID%7C44882390679612895831809933349137407342",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1805555998.527823,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMCV_CE025F3E56F292177F000101%40AdobeOrg",
+      "value": "-1124106680%7CMCMID%7C44882390679612895831809933349137407342%7CMCAAMLH-1771600798%7C6%7CMCAAMB-1771600798%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1771003198s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.2.0",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1805555998.550375,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "forterToken",
+      "value": "16f48468de0b408d822d96ff9b8e8b30_1770995997417__UDF43_24ck_",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1805555998,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "value": "2937E7D3EE3400C787C89DFD047C939B~-1~YAAQX8UTAjrJ1iKcAQAAEmCWVw/HzcpR6owTkI1RN02CTi9P4d5pFcVVWMxo2dBlsQoQQR7kbhFyrrNUg2PupZcaZdElT8lcb7mOQ9UZ9cyY/J7P9bP2PK98AWdr4NkDaRiCZ3uMyEnc9FMq1e9OY2+YKjuw12ZGdcv9tePOt7QXtSyqINOlzl1hWSmLBGjPHtVAkr02MV12tCZJdKIqnXA/A/qIDK+GPY0niViP3K7WVgsbWyeRAKUrGlL/fxEyUo5IzrrNv9xg2tVXSX15umD2s/6qZyAgXQHvGBRZbKClABrf0s6iRM5UBnYNaUoBw1ZQpmtRFQ6B6OY7GFbQGT5p6SKgeYVvKrLHCK+IXDHpxNC/TYSFN8hO2xkup0ISGMVqbSwcM+enl1MWYQpuq+513jMWgLG0JxVxDII7pywFOKcjFoTVAPGVGfbHISyNmO2O4zGc6CF88Jr1B40iENPlc3Qn7vvrXLGKiHzTl7aIFmPY5pwZ8Y7lIeY=~-1~-1~1770999597~-1~-1",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1802531998.725993,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akavpau_VP-DE",
+      "value": "1770996299~id=54e4db042d00b6981c075469d4c0c61b",
+      "domain": "www.douglas.de",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_s",
+      "value": "YAAQX8UTAkfJ1iKcAQAAH2GWVwQpCChehBJKDKtHni7FtHY8ion8c/vVLP3ZsjlUblKeUIh5p5LrtZkTUN9QSCajoEHNKs68kuMdGrqpOE6RAhPCVMnhiHHVXYXAe1Mr9d4z1mKAFqFLtVMRUdGPLjJwkgXblJCBB6jLqt3hDdrykygMXzIHnOInkvTeVnjc9D92DGZeuSJYeQ2PZLiigOKcEJ6vUpN3RdUy2U319Fw0vvmR2XnsTOFr1adr+38vVZscOlpulDx9RNW7VGjo4DwEcE3KMQqY/g40XkSowHDSgWfcMJ6Rz7V7oa7gcIOA2Gh9o3xaPtUV0UX9NuTy+RHFTSwFB4OM+ZsNE3u5mm7wadrd9uhf2AWcitcSVpUf2xpodKP6QV9K2KZVd+Mdo8t1GeQu4a8Nze0CB6z7xQfNYqrXILVKPUzQPULFUBKhpQ7gkBcbJ5P2XAVmdhcJtikSyrzEwrv6HBLxQ+JCIp504RhGaCJ8Hnq3Pzu5PsIjTlJ6egZd1RVi4iKx/teZkhY+0G0qsVKKVD0NnE73LEPllOgYGFnqQ3fWwOWE",
+      "domain": ".douglas.de",
+      "path": "/",
+      "expires": 1773674399.056315,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.douglas.de",
+      "localStorage": [
+        {
+          "name": "feh--c52",
+          "value": "0001770995999122cba6ba0ec5bc4f0312dbebed0c7556bf"
+        },
+        {
+          "name": "uc_user_interaction",
+          "value": "true"
+        },
+        {
+          "name": "feh--19c44",
+          "value": "0001770995998865ce0a00acb2bc65b263e6ed8d5bf826f7"
+        },
+        {
+          "name": "feh--1bda6",
+          "value": "0001770995999105272b985b2b9696ef118de65bce04250f"
+        },
+        {
+          "name": "profileAffinities",
+          "value": "null"
+        },
+        {
+          "name": "feh--da4",
+          "value": "0001770995999353b405c436b7ac5a2c7e6ba9d6dd28ae99"
+        },
+        {
+          "name": "feh--330df5",
+          "value": "000177099599884919f84e9900d67420d0daf5ba1d12fa72"
+        },
+        {
+          "name": "f3b83c8e592aef14c2204ee437d40785",
+          "value": "03o8r8o9ss69q228q804o0rq86484s61"
+        },
+        {
+          "name": "ak_ax",
+          "value": "-1"
+        },
+        {
+          "name": "feh--8ff2b28",
+          "value": "00017709959987200ebb010fd0d082b2caeba0a7b37c74a5"
+        },
+        {
+          "name": "feh--30cb83",
+          "value": "00017709959988714aafa655eb2cb86d4892d14598141118"
+        },
+        {
+          "name": "feh--6bc5339",
+          "value": "000177099599897542cfcf2d36a1552755af073f443daac3"
+        },
+        {
+          "name": "feh--1bc22",
+          "value": "0001770995998851bf81059e226589b58fd3bf87f5095bb8"
+        },
+        {
+          "name": "forterToken",
+          "value": "16f48468de0b408d822d96ff9b8e8b30,1770995998718"
+        },
+        {
+          "name": "feh--e3a677a0",
+          "value": "0001770995998720a1b87221a13b15123b1c8b79a866f388"
+        },
+        {
+          "name": "uc_ui_version",
+          "value": "3.91.0"
+        },
+        {
+          "name": "ftr__sf",
+          "value": "{\"et\":1770995998852,\"rc\":100,\"us\":\"16f48468de0b408d822d96ff9b8e8b30\"}"
+        },
+        {
+          "name": "ak_a",
+          "value": "2937E7D3EE3400C787C89DFD047C939B"
+        },
+        {
+          "name": "feh--9fd29358",
+          "value": "0001770995998719cce16c45e622d9ceae4b626c9353ecec"
+        },
+        {
+          "name": "ftr__gf",
+          "value": "{\"et\":1770995998847,\"us\":\"\\n\\u001a>~`Rk\\u0015V\\u001c\\u001b\\u000fs\\t\\r\\u0019\\n\\u0011@*llS2D\\t\\u0004]\\u00009fV\"}"
+        },
+        {
+          "name": "GULP_SC2",
+          "value": "ZXlJbVlteG5KQ0k2TUM0ek1UTXpNRFV6T0RJME5qVXhOVFkwZlE9PQ=="
+        },
+        {
+          "name": "ncu",
+          "value": "anonymous"
+        },
+        {
+          "name": "pst",
+          "value": "1770995999371"
+        },
+        {
+          "name": "psc",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
